@@ -11,7 +11,7 @@ calcular a pontuação da missão usando os seguintes critérios:
 * Difícil: 15 pontos por inimigo, -5 pontos por minuto acima de 15 minutos.
 * Exiba a pontuação final do jogador
 4@Lista: 02 
-@Autor: Chagas Junior
+@Autor: Joanna Nobre
 @Data: 03/09/2024
 ---------------------------------------------------------------------*/
 
