@@ -45,7 +45,9 @@ class Program
             case "fácil":
             case "facil":
                 pontosPorInimigo = 5;
-                tempoLimite = int.MaxValue;  // Sem penalidade de tempo
+                tempoLimite = int.MaxValue;  /
+
+                    
                 break;
             case "média":
             case "media":
